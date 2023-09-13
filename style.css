@@ -1,0 +1,87 @@
+.navbar-brand img{
+    width: 170px;
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color:transparent!important;
+}
+.list-dt{
+    list-style-type: none!important;
+    text-decoration: none!important;
+    padding-left: 45px!important;
+}
+.img-ag img{
+    width: 100%!important;
+    height: 700px!important;
+}
+.mian-2 img{
+    margin: 100px;
+    width: 40%;
+    display: block;
+    height: 650px;
+}
+.mian-2{
+    display: flex;
+}
+.div-2 img{
+    width: 35%;
+
+    height: 650px;
+
+}
+ .div-2 .h-3{
+    margin-top:50% ;
+}
+.img{
+    position: absolute;
+    display: block;
+}
+.h-3{
+    position: relative;
+    
+}
+.div-2 .h-3{
+    
+    
+}
+.h-3 .h2{
+    font-size:54px;
+    color:black ;
+}
+.h-3 .h4{
+    font-size:54px;
+    color:orange ;
+}
+.btn-css{
+    border: 2px solid black!important;
+    background-color: black!important;
+    border-radius: 0%!important;
+    padding: 12px!important;
+    margin-top: 20px;
+}
+.card.item{
+    margin: 15px!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
